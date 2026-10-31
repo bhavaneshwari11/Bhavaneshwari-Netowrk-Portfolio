@@ -1,10 +1,1 @@
-BHAVANESHWARI NETWORK ENGINEERING PORTFOLIO
-
-1. Open index.html locally to preview the portfolio.
-2. To publish, upload the complete Bhavaneshwari_Portfolio_Site folder to a static website host such as Netlify Drop, or upload its contents to a public GitHub repository and enable GitHub Pages.
-3. The HTML expects your profile photo at assets/bhavaneshwari-profile.jpg. Add your own photo using that exact filename before publishing; otherwise the portrait image areas will be blank.
-4. Do not upload private employer/customer data or confidential screenshots.
-
-Updated content:
-- Experience displayed as 3 years.
-- Added Network Administration — Professional Certification Program (iskima), Passed, 96%, October 13, 2026.
+Network Engineer with 2 years 10 months of experience at iOPEX Technologies supporting Prisma SD-WAN and Palo Alto Networks environments. Experienced in network connectivity, routing, VPN/IPsec, firewall policy and NAT troubleshooting, traffic and system-log analysis, high-priority incident handling, root-cause analysis, escalation coordination and customer communication. Brings a strong foundation in TCP/IP, VLANs, firewall policy investigation and hybrid branch connectivity, with an interest in extending these skills into IT/OT security and AI-assisted security operations.
